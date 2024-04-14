@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinzkillzuandyourdogfreddy
 - 👀 I’m interested progrmming and ADB
-- is a grest tool
+- is a great tool
 
 <!---
 sinzkillzuandyourdogfreddy/sinzkillzuandyourdogfreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
